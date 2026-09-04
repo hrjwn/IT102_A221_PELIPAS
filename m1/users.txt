@@ -1,0 +1,6 @@
+Account Number: 0915
+Account Name: Claire Pelipas
+PIN: 0915
+Account Type: Savings Account
+Balance: 15500.00
+
