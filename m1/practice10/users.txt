@@ -1,0 +1,18 @@
+Account Number: 0915
+Account Name: Claire Pelipas
+PIN: 0915
+Account Type: Savings Account
+Balance: 15500.00
+
+Account Number: 0929
+Account Name: Jessie Pio
+PIN: 0915
+Account Type: Student Account
+Balance: 10300.00
+
+Account Number: 8997
+Account Name: Piolo Pascual
+PIN: 0915
+Account Type: Student Account
+Balance: 9800.00
+

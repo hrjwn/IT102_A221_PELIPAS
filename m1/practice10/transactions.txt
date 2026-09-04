@@ -1,0 +1,57 @@
+Timestamp: 2026-08-31 18:54:28
+Account Number: 1234
+Account: Clyde Balaman
+Account Type: Savings Account
+Transaction: Deposit
+Amount: ₱2000.00
+Balance After: ₱12000.00
+
+Timestamp: 2026-08-31 18:55:07
+Account Number: 1234
+Account: Clyde Balaman
+Account Type: Savings Account
+Transaction: Deposit
+Amount: ₱5000.00
+Balance After: ₱17000.00
+
+Timestamp: 2026-08-31 18:55:49
+Account Number: 1234
+Account: Clyde Balaman
+Account Type: Savings Account
+Transaction: Withdraw
+Amount: ₱1500.00
+Balance After: ₱15500.00
+
+========================================
+Transaction ID: 20260904111513
+Timestamp: 2026-09-04 11:15:13
+Account Number: 0929
+Account: Jessie Pio
+Account Type: Student Account
+Transaction: Deposit
+Amount: ₱300.00
+Balance After: ₱10300.00
+========================================
+
+========================================
+Transaction ID: 20260904111702
+Timestamp: 2026-09-04 11:17:02
+Account Number: 8997
+Account: Piolo Pascual
+Account Type: Student Account
+Transaction: Deposit
+Amount: ₱300.00
+Balance After: ₱10300.00
+========================================
+
+========================================
+Transaction ID: 20260904111710
+Timestamp: 2026-09-04 11:17:10
+Account Number: 8997
+Account: Piolo Pascual
+Account Type: Student Account
+Transaction: Withdraw
+Amount: ₱500.00
+Balance After: ₱9800.00
+========================================
+
